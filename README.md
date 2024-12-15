@@ -82,5 +82,3 @@ You can also adjust the speed of the visualization by modifying the plt.pause() 
 ## License
 
 This project is open source and available under [MIT](https://choosealicense.com/licenses/mit/)
-
-# insertion-sort-visualization
